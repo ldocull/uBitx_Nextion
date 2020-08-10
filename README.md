@@ -8,6 +8,8 @@ Key features are:
  - Additional power supply filtering reduces background audio noise
  - Convenient points of connection for the Nextion display
  - Intermediate connections reduce wire harness
+ 
+![WR9R-Raduino Interface PCB](https://imgur.com/Z8l6ub7.jpg)
 
 ![WR9R-Raduino Interface PCBA](https://i.imgur.com/wAtQ7ia.jpg)
 
