@@ -5,9 +5,9 @@ Key features are:
 
  - [KB8CEC](https://github.com/phdlee) signal level meter and DSP functions are incorporated.
  - Anti-pop circuit was added to reduce the magnitude of key-clicks
- - Addition power supply filtering reduces background audio noise
- - Creates convenient points of connection for the Nextion Display
- - Reduces wire harness by taking care of some intermediate connections
+ - Additional power supply filtering reduces background audio noise
+ - Convenient points of connection for the Nextion display
+ - Intermediate connections reduce wire harness
 
 ![WR9R-Raduino Interface PCBA](https://i.imgur.com/wAtQ7ia.jpg)
 
