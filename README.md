@@ -9,7 +9,7 @@ Key features are:
  - Creates convenient points of connection for the Nextion Display
  - Reduces wire harness by taking care of some intermediate connections
 
-![WR9R-Raduino Interface PCBA](https://imgur.com/rhA1UcY)
+![WR9R-Raduino Interface PCBA](https://i.imgur.com/wAtQ7ia.jpg)
 
 -WR9R
 
