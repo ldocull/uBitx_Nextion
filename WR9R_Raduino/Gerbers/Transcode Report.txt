@@ -1,0 +1,54 @@
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-Edge_Cuts.gbr' ----   Fri Jun 26 16:05:50 2020
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-F_Cu.gbr' ----   Fri Jun 26 16:05:50 2020
+
+D10   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-F_SilkS.gbr' ----   Fri Jun 26 16:05:50 2020
+
+D10   --> D110
+D11   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-Edge_Cuts.gbr' ----   Fri Jun 26 16:12:32 2020
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-F_Cu.gbr' ----   Fri Jun 26 16:12:32 2020
+
+D10   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\LOCull.STRYKERCORP\Dropbox\KiCAD\WR9R_Raduino\Gerbers\WR9R_Raduino-F_SilkS.gbr' ----   Fri Jun 26 16:12:32 2020
+
+D10   --> D110
+D11   --> D111
+-----------------------------------------------------------------
