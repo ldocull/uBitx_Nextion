@@ -13,5 +13,6 @@ Key features are:
 
 ![WR9R- uBitxV3+](http://wr9r.com/wp-content/uploads/2020/07/cropped-IMG_2660.jpg)
 
--WR9R
+-[WR9R](http://wr9r.com/)
+
 
